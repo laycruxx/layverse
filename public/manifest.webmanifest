@@ -1,0 +1,12 @@
+{
+  "name": "Layverse — diário de preparação",
+  "short_name": "Layverse",
+  "description": "Planeje estudos, simulados e revisões.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#171824",
+  "theme_color": "#171824",
+  "icons": [
+    { "src": "/layverse-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
